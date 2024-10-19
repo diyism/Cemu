@@ -1,10 +1,10 @@
-    use WiiUDownloader-Linux-x86_64.AppImage(https://github.com/Xpl0itU/WiiUDownloader/releases/tag/v2.60) to search and download all 3 parts of game,update,dlc of "The Legend of Zelda Breath of the wild"
-    download https://github.com/diyism/Cemu/raw/refs/heads/main/Multiplayer.v0.2.1.rar
-    use Cemu-2.2-x86_64.AppImage(https://github.com/cemu-project/Cemu/releases/tag/v2.2) to install game,update,dl ( Cemu Menu > File > Install game... )
-    extrace Multiplayer.v0.2.1.rar as folder Multiplayer, and put it into "~/.local/share/Cemu/graphicPacks/"
-    on Cemu main page(game list), right-click "The Legend of Zelda ...", click "Edit graphic packs", tick "Multiplayer" and "Enhancements", "Graphics", "Mods/Extended Memory", "Mods/FPS++"
-    Cemu Menu > Options > Input settings > Controller 1 and Controller 2 > Emulated controller(=Wii U Pro Controller) + Controller("+" button, API=SDL controller, Controller=Xbox Series X Controller)
-    double click "The Legend of Zelda ..." to run
+    1. use WiiUDownloader-Linux-x86_64.AppImage(https://github.com/Xpl0itU/WiiUDownloader/releases/tag/v2.60) to search and download all 3 parts of game,update,dlc of "The Legend of Zelda Breath of the wild"
+    2. download https://github.com/diyism/Cemu/raw/refs/heads/main/Multiplayer.v0.2.1.rar
+    3. use Cemu-2.2-x86_64.AppImage(https://github.com/cemu-project/Cemu/releases/tag/v2.2) to install game,update,dl ( Cemu Menu > File > Install game... )
+    4. extract Multiplayer.v0.2.1.rar as folder Multiplayer, and put it into "~/.local/share/Cemu/graphicPacks/"
+    5. on Cemu main page(game list), right-click "The Legend of Zelda ...", click "Edit graphic packs", tick "Multiplayer" and "Enhancements", "Graphics", "Mods/Extended Memory", "Mods/FPS++"
+    6. Cemu Menu > Options > Input settings > Controller 1 and Controller 2 > Emulated controller(=Wii U Pro Controller) + Controller("+" button, API=SDL controller, Controller=Xbox Series X Controller)
+    7. double click "The Legend of Zelda ..." to run
 
 # **Cemu - Wii U emulator**
 
