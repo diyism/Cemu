@@ -1,3 +1,4 @@
+# Install The Legend of Zelda Multiplayer
     1. use WiiUDownloader-Linux-x86_64.AppImage(https://github.com/Xpl0itU/WiiUDownloader/releases/tag/v2.60) to search and download all 3 parts of game,update,dlc of "The Legend of Zelda Breath of the wild"
     2. download https://github.com/diyism/Cemu/raw/refs/heads/main/Multiplayer.v0.2.1.rar
     3. use Cemu-2.2-x86_64.AppImage(https://github.com/cemu-project/Cemu/releases/tag/v2.2) to install game,update,dl ( Cemu Menu > File > Install game... )
